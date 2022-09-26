@@ -1,12 +1,12 @@
-Dependencies:
-    Στο φάκελο components στο αρχείο config.js συμπληρώνουμε τα δικά μας στοιχεία:
-    https://www.youtube.com/watch?v=ql4J6SpLXZA&t=1493s&ab_channel=MadeWithMatt
+`Dependencies:`
+    `Στο φάκελο components στο αρχείο config.js συμπληρώνουμε τα δικά μας στοιχεία:`
+    `https://www.youtube.com/watch?v=ql4J6SpLXZA&t=1493s&ab_channel=MadeWithMatt`
 
-    Όπως επίσης στα αρχεία Home.js γραμμή 27 και ChooseLocation.js γραμμή 17 δημιουργούμε το δικό μας API KEY:
-    https://www.youtube.com/watch?v=RknlbwbRw_E&t=35s&ab_channel=NayyarShaikh
+    `Όπως επίσης στα αρχεία Home.js γραμμή 27 και ChooseLocation.js γραμμή 17 δημιουργούμε το δικό μας API KEY:`
+    `https://www.youtube.com/watch?v=RknlbwbRw_E&t=35s&ab_channel=NayyarShaikh`
 
-Τρόπος εγκατάστασης:
-    -Πρέπει να έχουμε το Node.js και την React Native - React  όπως και το Expo στο σύστημά μας
+`Τρόπος εγκατάστασης:`
+    `-Πρέπει να έχουμε το Node.js και την React Native - React  όπως και το Expo στο σύστημά μας`
     -Κάνουμε clone από το github
     -Κάνουμε unzip το αρχείο
     -Με την γραμμή εντολων πηγαίνουμε στον φάκελο CarPoolingApp
