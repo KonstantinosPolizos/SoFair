@@ -1,11 +1,11 @@
-#Dependencies:
+Dependencies:
     Στο φάκελο components στο αρχείο config.js συμπληρώνουμε τα δικά μας στοιχεία:
     https://www.youtube.com/watch?v=ql4J6SpLXZA&t=1493s&ab_channel=MadeWithMatt
 
     Όπως επίσης στα αρχεία Home.js γραμμή 27 και ChooseLocation.js γραμμή 17 δημιουργούμε το δικό μας API KEY:
     https://www.youtube.com/watch?v=RknlbwbRw_E&t=35s&ab_channel=NayyarShaikh
 
-##Τρόπος εγκατάστασης:
+Τρόπος εγκατάστασης:
     -Πρέπει να έχουμε το Node.js και την React Native - React  όπως και το Expo στο σύστημά μας
     -Κάνουμε clone από το github
     -Κάνουμε unzip το αρχείο
@@ -13,7 +13,7 @@
     -Εκτελούμε την εντολή npm install (με σχετική υπομονή)
     -Είμαστε έτοιμοι
 
-##Τρόπος εκτέλεσης:
+Τρόπος εκτέλεσης:
     -Εγκαθιστούμε το Bluestacks και μέσω των ρυθμίσεων το κάνουμε potrait για να έχει την εικόνα κινητού
     -Δημιουργούμε όσα instances θέλουμε
     -Ανοίγουμε και βάζουμε το email μας στο Play store
